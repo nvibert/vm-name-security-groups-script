@@ -15,8 +15,8 @@ But still, use the script at your own risk.
 - a VMware Cloud on AWS account
 
 ## How do I use this script ?
-- clone repo
-- install dependencies
+- Clone repo.
+- Install dependencies.
 ```
 $ pip install -r requirements.txt
 ```
