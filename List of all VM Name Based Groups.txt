@@ -1,0 +1,20 @@
+
+The group APP_WithFSX is using a VM Name based criteria, using the VM name APP_WITH_FSX
+The group AVAMAR is using a VM Name based criteria, using the VM name AVE-19.1.0.38
+The group AVI Controller is using a VM Name based criteria, using the VM name AVI controller
+The group DM-IPPBX is using a VM Name based criteria, using the VM name dm-vm-001
+The group DM-vms is using a VM Name based criteria, using the VM name dm-vm-
+The group MigrateVM-04 is using a VM Name based criteria, using the VM name MigrateVM-04
+The group Moodle-Group is using a VM Name based criteria, using the VM name nvibert-Moodle
+The group NV-Windows-Name-Group is using a VM Name based criteria, using the VM name NV-Windows
+The group Veeam Backup Server is using a VM Name based criteria, using the VM name veeam-emea-1
+The group WebDelete is using a VM Name based criteria, using the VM name WebServer-1
+The group hol-jh-adess is using a VM Name based criteria, using the VM name hol-jh
+The group ivan-db is using a VM Name based criteria, using the VM name IVAN-DB
+The group moodle is using a VM Name based criteria, using the VM name nvibert-Moodle
+The group nvibert-moodle is using a VM Name based criteria, using the VM name moodle
+The group vRNI Collector is using a VM Name based criteria, using the VM name VMWare-Network-Insight-5.0.0.1569834843-Collector-nvibert
+The group vRNI-proxy is using a VM Name based criteria, using the VM name vRNI-proxy
+The group vRNIplatform is using a VM Name based criteria, using the VM name vRNI_Platform
+The group vmc-srv-db is using a VM Name based criteria, using the VM name MigrateVM-DB
+The group webVM is using a VM Name based criteria, using the VM name web
